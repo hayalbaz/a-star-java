@@ -1,5 +1,3 @@
-package sukrucan.taylan.isikoglu;
-
 import java.io.*;
 import java.util.*;
 
